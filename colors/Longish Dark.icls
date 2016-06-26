@@ -167,6 +167,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="d00000" />
+      </value>
+    </option>
     <option name="PHP_BRACES">
       <value>
         <option name="FOREGROUND" value="90f0" />
@@ -297,6 +302,13 @@
         <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a8c023" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
