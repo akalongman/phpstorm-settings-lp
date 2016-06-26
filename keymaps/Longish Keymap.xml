@@ -8,6 +8,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.NavigateAction" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit" />
@@ -26,6 +30,7 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoNextError" />
   <action id="Jdbc.OpenTableEditor" />
   <action id="MethodUp" />
   <action id="ParameterInfo" />
@@ -39,6 +44,9 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
