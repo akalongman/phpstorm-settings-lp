@@ -31,6 +31,7 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoNextError" />
+  <action id="IntroduceField" />
   <action id="Jdbc.OpenTableEditor" />
   <action id="MethodUp" />
   <action id="ParameterInfo" />
@@ -42,6 +43,9 @@
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="RemoteHostView.EditSource" />
   <action id="RenameElement">
