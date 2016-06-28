@@ -1,5 +1,44 @@
 <templateSet group="PHP">
-  <template name="dump" value="dump($SELECTION$);&#10;die;" toReformat="false" toShortenFQNames="true">
+  <template name="dump" value="dump($SELECTION$);&#10;die;" description="Symfony's dump function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vard" value="var_dump($SELECTION$);&#10;die;" description="var_dump function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="printr" value="print_r($SELECTION$);&#10;die;" description="print_r function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="php" value="?&gt;&#10;$END$&#10;&lt;?php" description="?&gt; &lt;?php" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="Twig" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="PHP" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="ifdebug" value="if (DEBUG_MODE) {&#10;    $END$&#10;}" description="if debug expr" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ifipin" value="if (in_array(\$_SERVER['REMOTE_ADDR'], array('92.241.86.122', '95.104.105.5'))) {&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
