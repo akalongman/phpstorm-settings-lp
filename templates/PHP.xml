@@ -43,4 +43,25 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="phpe" value="&lt;?= $END$ ?&gt;" description="php echo expr" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="iniset_soap" value="ini_set('soap.wsdl_cache_enabled', 0);&#10;ini_set('soap.wsdl_cache_ttl', 0);" description="ini_set soap commands" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="iniset_memory" value="ini_set('max_execution_time', 0);&#10;ini_set('memory_limit', -1);" description="ini_set memory commands" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="iniset_error" value="ini_set('log_errors', 1);&#10;ini_set('error_log', 'error.log');&#10;ini_set('error_reporting', E_ALL ^ E_NOTICE);&#10;ini_set('display_errors', 1);" description="ini_set error reporting  commands" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
