@@ -6,7 +6,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration tool_path="/var/www/domains/myaldagi/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
 </application>
