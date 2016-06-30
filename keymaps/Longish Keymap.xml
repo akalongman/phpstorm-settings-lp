@@ -33,9 +33,13 @@
   </action>
   <action id="GotoNextError" />
   <action id="IntroduceField" />
+  <action id="IntroduceParameter" />
   <action id="Jdbc.OpenTableEditor" />
   <action id="Macro.dump macro">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="MethodUp" />
   <action id="ParameterInfo" />
