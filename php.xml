@@ -9,4 +9,7 @@
       <PhpCSConfiguration tool_path="/var/www/domains/myaldagi/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
+  </component>
 </application>
