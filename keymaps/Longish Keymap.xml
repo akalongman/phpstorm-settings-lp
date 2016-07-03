@@ -8,22 +8,24 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.NavigateAction" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -66,6 +68,12 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -88,4 +96,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
