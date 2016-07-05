@@ -77,7 +77,7 @@
   <action id="ShelvedChanges.Diff" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
-    <mouse-shortcut keystroke="button142" />
+    <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
