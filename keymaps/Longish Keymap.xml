@@ -23,6 +23,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
@@ -74,6 +75,10 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <mouse-shortcut keystroke="button142" />
+  </action>
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -91,6 +96,14 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
