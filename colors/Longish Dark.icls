@@ -16,6 +16,23 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_CALL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.HERE_DOC">
+      <value>
+        <option name="BACKGROUND" value="5a5a5a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f060f0" />
@@ -391,7 +408,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_BOLD_ITALIC_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -435,7 +452,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_BOLD_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -652,7 +669,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_ITALIC_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -762,7 +779,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -969,7 +986,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_STRIKETHROUGH_BOLD_ITALIC_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -1018,7 +1035,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_STRIKETHROUGH_BOLD_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -1127,7 +1144,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_STRIKETHROUGH_ITALIC_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
@@ -1183,7 +1200,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM_STRIKETHROUGH_QUOTED_TEXT_SMARTS">
       <value>
-        <option name="BACKGROUND" value="3d2d52" />
+        <option name="BACKGROUND" value="3d2e52" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="b33e6b" />
         <option name="EFFECT_TYPE" value="3" />
