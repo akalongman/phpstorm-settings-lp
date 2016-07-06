@@ -3,11 +3,12 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ActivateNavBar">
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -61,6 +62,7 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
@@ -96,6 +98,7 @@
     <keyboard-shortcut first-keystroke="shift f11" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="ShowContent" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -125,6 +128,10 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
