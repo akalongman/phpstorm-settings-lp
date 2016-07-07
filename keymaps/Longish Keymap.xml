@@ -13,6 +13,12 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditFilterCriteria" />
@@ -35,6 +41,12 @@
   </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -49,6 +61,12 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoNextError" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenTableEditor" />
@@ -56,8 +74,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="Macro.-&gt;">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="Macro.=&gt;">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="Macro.dump macro">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="Macro.last semicolon macro">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />

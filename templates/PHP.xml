@@ -64,4 +64,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="arrow" value="-&gt;" description="-&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="true" />
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -8,5 +8,15 @@
       <action id="SurroundWithLiveTemplate" />
       <typing text-keycode="86:0">v</typing>
     </macro>
+    <macro name="-&gt;">
+      <typing text-keycode="45:0;46:1">-&gt;</typing>
+    </macro>
+    <macro name="=&gt;">
+      <typing text-keycode="61:0;46:1">=&gt;</typing>
+    </macro>
+    <macro name="last semicolon macro">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+    </macro>
   </component>
 </application>
