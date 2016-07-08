@@ -60,6 +60,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />
@@ -176,6 +179,10 @@
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="Unwrap" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
