@@ -36,6 +36,10 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -62,6 +66,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoNextError" />
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
