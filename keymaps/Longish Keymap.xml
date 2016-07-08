@@ -91,6 +91,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="MethodDown" />
+  <action id="MethodHierarchy" />
   <action id="MethodUp" />
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
@@ -114,6 +115,9 @@
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
