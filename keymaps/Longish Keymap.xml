@@ -27,6 +27,7 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.NavigateAction" />
+  <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit" />
@@ -144,6 +145,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="ctrl alt y" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
     <mouse-shortcut keystroke="button2" />
@@ -152,6 +157,7 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
