@@ -145,6 +145,7 @@
     <mouse-shortcut keystroke="shift button2" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowNavBar" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
@@ -189,6 +190,9 @@
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="hg4idea.branches">
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
