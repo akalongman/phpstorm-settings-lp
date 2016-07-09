@@ -16,8 +16,14 @@
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
+  </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
@@ -40,6 +46,10 @@
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="shift control button1" />
   </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
@@ -51,8 +61,14 @@
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
