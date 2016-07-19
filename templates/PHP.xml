@@ -16,21 +16,7 @@
   </template>
   <template name="php" value="?&gt;&#10;$END$&#10;&lt;?php" description="?&gt; &lt;?php" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="false" />
-      <option name="HTML" value="false" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_DECLARATION_BLOCK" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-      <option name="CSS" value="false" />
-      <option name="Twig" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JS_EXPRESSION" value="false" />
-      <option name="JSX_HTML" value="false" />
-      <option name="JS_STATEMENT" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="true" />
-      <option name="OTHER" value="false" />
     </context>
   </template>
   <template name="ifdebug" value="if (DEBUG_MODE) {&#10;    $END$&#10;}" description="if debug expr" toReformat="true" toShortenFQNames="true">
@@ -45,7 +31,6 @@
   </template>
   <template name="phpe" value="&lt;?= $END$ ?&gt;" description="php echo expr" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
     </context>
   </template>
@@ -67,8 +52,6 @@
   <template name="arrow" value="-&gt;" description="-&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
-      <option name="PHP Comment" value="true" />
-      <option name="PHP String Literal" value="true" />
     </context>
   </template>
 </templateSet>
