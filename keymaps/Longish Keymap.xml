@@ -6,6 +6,9 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
     <keyboard-shortcut first-keystroke="alt up" />
@@ -99,6 +102,9 @@
   </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="IncomingChanges.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
