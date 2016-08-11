@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="composer" type="PHP" />
+      <mapping pattern="tasker" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="tasker.sh" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
