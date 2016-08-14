@@ -5,5 +5,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.php" value="PHP" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.php" value="PHP" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.php" value="PHP" />
   </component>
 </application>
