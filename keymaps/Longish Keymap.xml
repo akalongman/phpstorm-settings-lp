@@ -131,6 +131,10 @@
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
