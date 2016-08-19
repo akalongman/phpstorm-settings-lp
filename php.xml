@@ -4,6 +4,7 @@
       <MessDetectorConfiguration />
     </phpmd_settings>
   </component>
+  <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration tool_path="/var/www/domains/myaldagi/vendor/bin/phpcs" />

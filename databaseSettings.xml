@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings">
+    <option name="preview-rows" value="20" />
     <csv-formats>
       <csv-format name="Tab Separated Values (TSV)">
         <data>
