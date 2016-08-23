@@ -3,8 +3,15 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl 2" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl 3" />
   </action>
   <action id="ChangesView.Refresh">
     <keyboard-shortcut first-keystroke="f5" />
@@ -202,6 +209,9 @@
     <keyboard-shortcut first-keystroke="f11" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="ToggleBookmark1" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark3" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <mouse-shortcut keystroke="control button2" />
