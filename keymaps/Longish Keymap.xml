@@ -45,6 +45,7 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
@@ -187,6 +188,9 @@
   <action id="ShowNavBar" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
