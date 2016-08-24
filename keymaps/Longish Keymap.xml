@@ -49,7 +49,9 @@
   <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
-  <action id="DomCollectionControl.Edit" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="shift ctrl 5" />
+  </action>
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
   <action id="Editor Redo">
@@ -212,6 +214,7 @@
   <action id="ToggleBookmark1" />
   <action id="ToggleBookmark2" />
   <action id="ToggleBookmark3" />
+  <action id="ToggleBookmark5" />
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <mouse-shortcut keystroke="control button2" />
