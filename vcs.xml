@@ -6,6 +6,10 @@
           <option name="url" value="git@github.com:prezly/docs-internal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:nikaabr/itdc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/domains" />
