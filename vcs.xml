@@ -14,6 +14,10 @@
           <option name="url" value="git@gitlab.itdc.ge:myvideo/myvideo-site.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:akalongman/longman.me.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/domains" />
