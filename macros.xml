@@ -18,5 +18,9 @@
       <action id="EditorLineEnd" />
       <typing text-keycode="59:0">;</typing>
     </macro>
+    <macro name="printr macro">
+      <action id="SurroundWithLiveTemplate" />
+      <typing text-keycode="80:0">p</typing>
+    </macro>
   </component>
 </application>
