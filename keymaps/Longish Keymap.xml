@@ -38,6 +38,9 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="CommittedChanges.Refresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditFilterCriteria" />
