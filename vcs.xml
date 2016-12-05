@@ -54,8 +54,12 @@
           <option name="url" value="git@github.com:fourcms/auth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.itdc.ge:itdc/argusilia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/web/fourcms/auth" />
+    <option name="cloneParentDir" value="$USER_HOME$/web/domains" />
   </component>
 </application>
