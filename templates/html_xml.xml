@@ -1,8 +1,8 @@
 <templateSet group="html/xml">
   <template name="php" value="&lt;?php&#10;$END$&#10;?&gt;" description="&lt;?php ?&gt;" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="PHP" value="false" />
       <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
     </context>
   </template>
 </templateSet>
