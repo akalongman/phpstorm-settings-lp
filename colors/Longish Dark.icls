@@ -1,5 +1,4 @@
 <scheme name="Longish Dark" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
@@ -12521,7 +12520,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d00000" />
+        <option name="FOREGROUND" value="aa0000" />
       </value>
     </option>
     <option name="PHP_PARENTHESES">
@@ -12562,7 +12561,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="d00000" />
+        <option name="FOREGROUND" value="aa0000" />
       </value>
     </option>
     <option name="TEXT">
