@@ -1,5 +1,6 @@
 <code_scheme name="Prezly.CodeStyle">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="160" />
   <CssCodeStyleSettings>
     <option name="VALUE_ALIGNMENT" value="2" />
   </CssCodeStyleSettings>
