@@ -3,7 +3,7 @@
     <property name="created">2016-12-05T21:19:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-13T12:29:24</property>
+    <property name="modified">2017-01-05T17:47:15</property>
     <property name="originalScheme">Longish Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -190,7 +190,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="d00000" />
+        <option name="EFFECT_COLOR" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="9e2927" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
