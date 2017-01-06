@@ -28,9 +28,7 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
       <entry key="DirDiff">
         <PlaceSettings />
