@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
+  </component>
+</application>
