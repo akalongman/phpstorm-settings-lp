@@ -1,10 +1,10 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="Longish Dark LP" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2017-01-12T21:25:05</property>
+    <property name="created">2017-01-12T21:44:16</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-12T21:43:16</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="modified">2017-01-12T21:44:41</property>
+    <property name="originalScheme">Longish Scheme (LP)</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
@@ -30,7 +30,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
