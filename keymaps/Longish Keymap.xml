@@ -187,6 +187,10 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="ScrollFromSource">
+    <keyboard-shortcut first-keystroke="ctrl meta s" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
