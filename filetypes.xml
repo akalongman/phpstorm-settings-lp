@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CONTRIBUTE" type="Markdown" />
       <mapping pattern="composer" type="PHP" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="tasker" type="PLAIN_TEXT" />
