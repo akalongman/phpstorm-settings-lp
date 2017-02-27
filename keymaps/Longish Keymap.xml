@@ -81,6 +81,9 @@
   </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="EditorUnSelectWord" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
