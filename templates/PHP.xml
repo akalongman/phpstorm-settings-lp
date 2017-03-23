@@ -24,7 +24,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ifipin" value="if (in_array(\$_SERVER['REMOTE_ADDR'], array('92.241.86.122', '95.104.105.5'))) {&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="ifipin" value="if (in_array(\$_SERVER['REMOTE_ADDR'], array('92.241.86.122', '95.104.105.5'))) {&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
