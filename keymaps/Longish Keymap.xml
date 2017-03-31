@@ -79,7 +79,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
-  <action id="EditorPasteFromX11" />
+  <action id="EditorPasteFromX11">
+    <keyboard-shortcut first-keystroke="shift ctrl alt y" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt w" />
