@@ -801,9 +801,6 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpSmartKeysConfiguration">
-    <option name="smartFunctionParametersCompletion" value="true" />
-  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="f2a52471-334d-4078-8e56-1aadefc8d697" load_method="CUSTOM_LOADER" configuration_file_path="/var/prezly/phpunit.xml" custom_loader_path="/var/prezly/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
