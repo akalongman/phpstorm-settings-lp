@@ -106,6 +106,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
@@ -120,6 +123,7 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="HippieCompletion" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
