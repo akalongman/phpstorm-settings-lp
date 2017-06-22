@@ -6,7 +6,7 @@
       <language id="Chef" NEW_FILE="true" ENABLE="false" />
       <language id="Cvs" NEW_FILE="true" ENABLE="true" />
       <language id="Darcs" NEW_FILE="true" ENABLE="true" />
-      <language id="Docker" NEW_FILE="true" ENABLE="false" />
+      <language id="Docker" NEW_FILE="false" ENABLE="false" />
       <language id="ESLint" NEW_FILE="true" ENABLE="false" />
       <language id="Floobits" NEW_FILE="true" ENABLE="false" />
       <language id="Fossil" NEW_FILE="true" ENABLE="true" />
