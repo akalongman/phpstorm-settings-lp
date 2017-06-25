@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CONTRIBUTE" type="Markdown" />
       <mapping pattern="composer" type="PHP" />
+      <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern="tasker" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
