@@ -5,6 +5,7 @@
     <option name="VALUE_ALIGNMENT" value="2" />
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
+    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
