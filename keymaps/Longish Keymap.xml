@@ -13,6 +13,9 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="ChangesView.Refresh">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
@@ -110,6 +113,9 @@
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
@@ -204,6 +210,12 @@
   <action id="ScrollFromSource">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="ScrollPane-scrollLeft">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ScrollPane-scrollRight">
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
