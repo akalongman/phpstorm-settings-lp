@@ -27,6 +27,7 @@
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="dic" type="PLAIN_TEXT" />
       <mapping ext="2016-08-03" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
