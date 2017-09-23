@@ -4,6 +4,7 @@
       <mapping pattern="CONTRIBUTE" type="Markdown" />
       <mapping pattern="composer" type="PHP" />
       <mapping pattern=".env.old" type="PLAIN_TEXT" />
+      <mapping pattern="crawler" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern="tasker" type="PLAIN_TEXT" />
