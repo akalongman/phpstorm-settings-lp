@@ -214,6 +214,10 @@
           <option name="url" value="git@github.com:akalongman/php-geopayment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:akalongman/geo-words.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/repositories/akalongman" />
