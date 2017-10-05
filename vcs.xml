@@ -222,9 +222,13 @@
           <option name="url" value="git@github.com:php-telegram-bot/core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:akalongman/awesome-georgia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/repositories/php-telegram-bot" />
+    <option name="cloneParentDir" value="$USER_HOME$/repositories/akalongman" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
