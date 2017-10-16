@@ -18,7 +18,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php7.1" path_separator=":" version="7.1.6-1~ubuntu16.04.1+deb.sury.org+1">
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php7.1" path_separator=":" version="7.1.10-1+ubuntu16.04.1+deb.sury.org+1">
           <additional_php_ini>/etc/php/7.1/cli/conf.d/10-mysqlnd.ini, /etc/php/7.1/cli/conf.d/10-opcache.ini, /etc/php/7.1/cli/conf.d/10-pdo.ini, /etc/php/7.1/cli/conf.d/15-xml.ini, /etc/php/7.1/cli/conf.d/20-bcmath.ini, /etc/php/7.1/cli/conf.d/20-bz2.ini, /etc/php/7.1/cli/conf.d/20-calendar.ini, /etc/php/7.1/cli/conf.d/20-ctype.ini, /etc/php/7.1/cli/conf.d/20-curl.ini, /etc/php/7.1/cli/conf.d/20-dom.ini, /etc/php/7.1/cli/conf.d/20-enchant.ini, /etc/php/7.1/cli/conf.d/20-exif.ini, /etc/php/7.1/cli/conf.d/20-fileinfo.ini, /etc/php/7.1/cli/conf.d/20-ftp.ini, /etc/php/7.1/cli/conf.d/20-gd.ini, /etc/php/7.1/cli/conf.d/20-gettext.ini, /etc/php/7.1/cli/conf.d/20-gmp.ini, /etc/php/7.1/cli/conf.d/20-iconv.ini, /etc/php/7.1/cli/conf.d/20-igbinary.ini, /etc/php/7.1/cli/conf.d/20-imap.ini, /etc/php/7.1/cli/conf.d/20-intl.ini, /etc/php/7.1/cli/conf.d/20-json.ini, /etc/php/7.1/cli/conf.d/20-ldap.ini, /etc/php/7.1/cli/conf.d/20-mbstring.ini, /etc/php/7.1/cli/conf.d/20-mcrypt.ini, /etc/php/7.1/cli/conf.d/20-msgpack.ini, /etc/php/7.1/cli/conf.d/20-mysqli.ini, /etc/php/7.1/cli/conf.d/20-odbc.ini, /etc/php/7.1/cli/conf.d/20-pdo_dblib.ini, /etc/php/7.1/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.1/cli/conf.d/20-pdo_odbc.ini, /etc/php/7.1/cli/conf.d/20-pdo_pgsql.ini, /etc/php/7.1/cli/conf.d/20-pdo_sqlite.ini, /etc/php/7.1/cli/conf.d/20-pgsql.ini, /etc/php/7.1/cli/conf.d/20-phar.ini, /etc/php/7.1/cli/conf.d/20-posix.ini, /etc/php/7.1/cli/conf.d/20-pspell.ini, /etc/php/7.1/cli/conf.d/20-readline.ini, /etc/php/7.1/cli/conf.d/20-recode.ini, /etc/php/7.1/cli/conf.d/20-shmop.ini, /etc/php/7.1/cli/conf.d/20-simplexml.ini, /etc/php/7.1/cli/conf.d/20-soap.ini, /etc/php/7.1/cli/conf.d/20-sockets.ini, /etc/php/7.1/cli/conf.d/20-sqlite3.ini, /etc/php/7.1/cli/conf.d/20-sysvmsg.ini, /etc/php/7.1/cli/conf.d/20-sysvsem.ini, /etc/php/7.1/cli/conf.d/20-sysvshm.ini, /etc/php/7.1/cli/conf.d/20-tidy.ini, /etc/php/7.1/cli/conf.d/20-tokenizer.ini, /etc/php/7.1/cli/conf.d/20-wddx.ini, /etc/php/7.1/cli/conf.d/20-xmlreader.ini, /etc/php/7.1/cli/conf.d/20-xmlrpc.ini, /etc/php/7.1/cli/conf.d/20-xmlwriter.ini, /etc/php/7.1/cli/conf.d/20-xsl.ini, /etc/php/7.1/cli/conf.d/20-zip.ini, /etc/php/7.1/cli/conf.d/25-memcached.ini</additional_php_ini>
           <configuration_file>/etc/php/7.1/cli/php.ini</configuration_file>
           <configuration_options>
@@ -187,7 +187,7 @@
             <configuration_option name="opcache.consistency_checks" value="0" />
             <configuration_option name="opcache.dups_fix" value="0" />
             <configuration_option name="opcache.enable" value="1" />
-            <configuration_option name="opcache.enable_cli" value="1" />
+            <configuration_option name="opcache.enable_cli" value="0" />
             <configuration_option name="opcache.enable_file_override" value="0" />
             <configuration_option name="opcache.error_log" value="" />
             <configuration_option name="opcache.fast_shutdown" value="0" />
