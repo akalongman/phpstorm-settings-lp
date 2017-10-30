@@ -1,19 +1,9 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="29" />
-    <option name="FONT_SCALE" value="2.4166667" />
-  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
     <option name="IS_TRAILING_WHITESPACES_SHOWN" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>

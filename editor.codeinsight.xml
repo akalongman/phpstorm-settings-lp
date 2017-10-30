@@ -1,9 +1,9 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
-    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Longish Style">
+  <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="4" />
   </component>
 </application>

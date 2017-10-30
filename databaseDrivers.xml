@@ -6,7 +6,7 @@
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
       <artifact name="Oracle" use="true" />
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
@@ -30,18 +30,15 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
-      <artifact name="Xerial SQLiteJDBC" use="true" version="3.16.1" />
+      <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <property name="enable_load_extension" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" use="true" version="42.1.1" />
+      <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <artifact name="DB2" use="true" />
@@ -58,9 +55,8 @@
       <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
+      <artifact name="MySQL Connector/J" use="true" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
       <property name="autoReconnect" value="true" />
       <property name="zeroDateTimeBehavior" value="convertToNull" />
       <property name="tinyInt1isBit" value="false" />
