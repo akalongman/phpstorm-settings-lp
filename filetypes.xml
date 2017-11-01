@@ -7,6 +7,7 @@
       <mapping pattern="composer" type="PHP" />
       <mapping pattern=".env.old" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swo" type="PLAIN_TEXT" />
+      <mapping pattern="bash-comp" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
