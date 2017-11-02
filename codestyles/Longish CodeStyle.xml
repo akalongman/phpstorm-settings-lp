@@ -24,6 +24,10 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_AFTER_SELECT_2" value="2" />
+    <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -37,6 +41,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
