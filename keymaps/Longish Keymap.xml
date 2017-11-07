@@ -181,6 +181,12 @@
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PublishGroup.Download">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
