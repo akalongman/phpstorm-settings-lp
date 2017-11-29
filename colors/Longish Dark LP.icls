@@ -4,11 +4,18 @@
     <property name="created">2016-12-05T21:19:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-11-29T17:06:55</property>
+    <property name="modified">2017-11-29T17:56:15</property>
     <property name="originalScheme">Longish Dark</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="25" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="26" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="26" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="NOTIFICATION_BACKGROUND" value="909030" />
@@ -194,6 +201,12 @@
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="ERROR_STRIPE_COLOR" value="9e2927" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="90f0" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MAGIC_MEMBER_ACCESS">
@@ -12571,6 +12584,12 @@
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SQL_LOCAL_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="9876cc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
