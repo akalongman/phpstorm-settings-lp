@@ -249,8 +249,12 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -277,7 +281,6 @@
   <action id="ToggleBookmark3" />
   <action id="ToggleBookmark5" />
   <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="ctrl f11" />
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="ToggleFullScreen">
