@@ -273,6 +273,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt m" />
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
