@@ -5,6 +5,7 @@
       <mapping pattern="CONTRIBUTE" type="Markdown" />
       <mapping pattern="crawler" type="PHP" />
       <mapping pattern="composer" type="PHP" />
+      <mapping pattern=".gitginore" type="PLAIN_TEXT" />
       <mapping pattern=".env.old" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swo" type="PLAIN_TEXT" />
       <mapping pattern="bash-comp" type="PLAIN_TEXT" />
@@ -30,15 +31,15 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="itdcmd" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="script" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="dic" type="PLAIN_TEXT" />
-      <mapping ext="2016-08-03" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="2016-08-03" type="PLAIN_TEXT" />
+      <mapping ext="profile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
