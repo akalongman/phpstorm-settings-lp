@@ -7,6 +7,9 @@
       <webServer id="1e3c8912-53e1-4292-b297-8f60b85a9bf6" name="myaldagi.dev" url="http://myaldagi.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ae00f9cc-1116-4fe4-94d7-679e1832816a" name="imovies-local" url="http://imovies-api.site.itdc.ge">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/itdc/imovies-api" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
