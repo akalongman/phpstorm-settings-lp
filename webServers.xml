@@ -4,9 +4,6 @@
       <webServer id="80ca45a6-dc49-448b-9bca-2dd1badeb00e" name="Prezly" url="http://rock.prezly.dev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="1e3c8912-53e1-4292-b297-8f60b85a9bf6" name="myaldagi.dev" url="http://myaldagi.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
