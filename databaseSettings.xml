@@ -1,9 +1,20 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="3">
     <option name="preview-rows" value="20" />
     <option name="filters-history-size" value="20" />
+    <text-mode>
+      <parameter-patterns>
+        <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
+        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="$a.b.c$?" />
+        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="#a.b.c#?" />
+        <parameter-pattern value="%\((\w+)\)s" in-scripts="true" scope="Python" predefined="%(name)s" />
+        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
+        <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
+      </parameter-patterns>
+    </text-mode>
     <csv-formats>
-      <csv-format name="Tab Separated Values (TSV)">
+      <csv-format name="Tab Separated Values (TSV)" id="Tab-separated (TSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
             <quotation>
@@ -13,7 +24,7 @@
           </record-format>
         </data>
       </csv-format>
-      <csv-format name="Comma Separated Values (CSV)">
+      <csv-format name="Comma Separated Values (CSV)" id="Comma-separated (CSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
@@ -22,6 +33,24 @@
             </quotation>
           </record-format>
         </data>
+      </csv-format>
+      <csv-format name="Comma Separated + Headers (CSV)" id="21db407e-2d13-4d29-8c8d-41cf0e1ac3c4" row-numbers="true">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+        <header>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </header>
       </csv-format>
     </csv-formats>
   </component>
