@@ -79,6 +79,12 @@
     <mouse-shortcut keystroke="alt button1" />
     <mouse-shortcut keystroke="shift control button1" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStart" />
