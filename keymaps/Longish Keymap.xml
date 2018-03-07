@@ -59,6 +59,7 @@
   </action>
   <action id="Console.TableResult.MaximizeEditingCell" />
   <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.SetNull" />
   <action id="CopyAsPlainText">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -154,6 +155,7 @@
   <action id="IncomingChanges.Refresh">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Inline" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenTableEditor" />
@@ -196,6 +198,10 @@
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
