@@ -20,6 +20,7 @@
   <action id="ChangesView.Refresh">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -99,6 +100,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorToggleCase" />
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -278,6 +280,7 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
@@ -291,6 +294,7 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
+  <action id="ShowUmlDiagramPopup" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
@@ -350,4 +354,8 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
 </keymap>
