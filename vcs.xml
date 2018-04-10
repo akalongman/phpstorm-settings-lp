@@ -286,9 +286,13 @@
           <option name="url" value="git@github.com:akalongman/monolog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.itdc.ge:imovies/imovies-workers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/repositories/other" />
+    <option name="cloneParentDir" value="$USER_HOME$/web/domains" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
