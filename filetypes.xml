@@ -6,41 +6,40 @@
       <mapping pattern="crawler" type="PHP" />
       <mapping pattern="composer" type="PHP" />
       <mapping pattern=".gitginore" type="PLAIN_TEXT" />
-      <mapping pattern=".env.old" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".index.php.swo" type="PLAIN_TEXT" />
-      <mapping pattern="bash-comp" type="PLAIN_TEXT" />
+      <mapping pattern=".env.old" type="PLAIN_TEXT" />
       <mapping pattern="asdf" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env_old" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="tasker" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="chromedriver-linux" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="tasker.sh" type="PLAIN_TEXT" />
       <mapping pattern="cachetool" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_excludes" type="PLAIN_TEXT" />
+      <mapping pattern="bash-comp" type="PLAIN_TEXT" />
       <mapping pattern="tasker-composer" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="chromedriver-linux" type="PLAIN_TEXT" />
-      <mapping pattern="VPN setup" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="Sync database between prod and test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="down" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="itdcmd" type="PLAIN_TEXT" />
-      <mapping ext="script" type="PLAIN_TEXT" />
-      <mapping ext="mmdb" type="PLAIN_TEXT" />
-      <mapping ext="asc" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping pattern="VPN setup" type="PLAIN_TEXT" />
       <mapping ext="apib" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping ext="2016-08-03" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="2016-08-03" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="asc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
