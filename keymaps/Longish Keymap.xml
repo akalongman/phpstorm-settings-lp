@@ -13,6 +13,7 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
   </action>
+  <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -354,6 +355,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="openAssertEqualsDiff" />
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="ctrl alt u" />
