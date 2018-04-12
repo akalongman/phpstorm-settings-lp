@@ -17,9 +17,10 @@
         <option value="scratch1.json" />
         <option value="scratch2.json" />
         <option value="scratch3.json" />
+        <option value="lang1.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch2.json" />
+    <option name="lastOpenedScratch" value="lang1.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
