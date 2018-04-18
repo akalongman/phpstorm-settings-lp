@@ -294,9 +294,13 @@
           <option name="url" value="git@gitlab.itdc.ge:imovies/111.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:php-telegram-bot/laravel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/web/domains" />
+    <option name="cloneParentDir" value="$USER_HOME$/repositories/php-telegram-bot" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
