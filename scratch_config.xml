@@ -20,9 +20,10 @@
         <option value="lang1.txt" />
         <option value="scratch.txt" />
         <option value="scratch_&amp;.php" />
+        <option value="scratch4.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_&amp;.php" />
+    <option name="lastOpenedScratch" value="scratch4.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
