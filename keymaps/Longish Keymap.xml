@@ -43,6 +43,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <keyboard-shortcut first-keystroke="shift ctrl open_bracket" />
   </action>
+  <action id="CollapseBlock" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
@@ -114,6 +119,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
   </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
@@ -180,17 +189,20 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
-  <action id="Macro.-&gt;">
-    <keyboard-shortcut first-keystroke="ctrl minus" />
-  </action>
-  <action id="Macro.=&gt;">
+  <action id="Macro.arrayarrow">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
-  <action id="Macro.dump macro">
+  <action id="Macro.arrow">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="Macro.dump">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
   <action id="Macro.last semicolon macro">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="Macro.printr">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="Macro.printr macro">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
