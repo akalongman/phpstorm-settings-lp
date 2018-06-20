@@ -13,6 +13,8 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl 3" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="AutoIndentLines" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -23,11 +25,11 @@
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CheckinFiles">
-    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" />
-    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -102,6 +104,7 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorPageUpWithSelection" />
   <action id="EditorPasteFromX11">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
@@ -355,7 +358,7 @@
   <action id="Unwrap" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
-    <keyboard-shortcut first-keystroke="alt page_up" />
+    <keyboard-shortcut first-keystroke="shift page_up" />
   </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
