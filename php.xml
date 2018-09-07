@@ -17,9 +17,9 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php7.1" path_separator=":" version="7.1.10-1+ubuntu16.04.1+deb.sury.org+1">
-          <additional_php_ini>/etc/php/7.1/cli/conf.d/10-mysqlnd.ini, /etc/php/7.1/cli/conf.d/10-opcache.ini, /etc/php/7.1/cli/conf.d/10-pdo.ini, /etc/php/7.1/cli/conf.d/15-xml.ini, /etc/php/7.1/cli/conf.d/20-bcmath.ini, /etc/php/7.1/cli/conf.d/20-bz2.ini, /etc/php/7.1/cli/conf.d/20-calendar.ini, /etc/php/7.1/cli/conf.d/20-ctype.ini, /etc/php/7.1/cli/conf.d/20-curl.ini, /etc/php/7.1/cli/conf.d/20-dom.ini, /etc/php/7.1/cli/conf.d/20-enchant.ini, /etc/php/7.1/cli/conf.d/20-exif.ini, /etc/php/7.1/cli/conf.d/20-fileinfo.ini, /etc/php/7.1/cli/conf.d/20-ftp.ini, /etc/php/7.1/cli/conf.d/20-gd.ini, /etc/php/7.1/cli/conf.d/20-gettext.ini, /etc/php/7.1/cli/conf.d/20-gmp.ini, /etc/php/7.1/cli/conf.d/20-iconv.ini, /etc/php/7.1/cli/conf.d/20-igbinary.ini, /etc/php/7.1/cli/conf.d/20-imap.ini, /etc/php/7.1/cli/conf.d/20-intl.ini, /etc/php/7.1/cli/conf.d/20-json.ini, /etc/php/7.1/cli/conf.d/20-ldap.ini, /etc/php/7.1/cli/conf.d/20-mbstring.ini, /etc/php/7.1/cli/conf.d/20-mcrypt.ini, /etc/php/7.1/cli/conf.d/20-msgpack.ini, /etc/php/7.1/cli/conf.d/20-mysqli.ini, /etc/php/7.1/cli/conf.d/20-odbc.ini, /etc/php/7.1/cli/conf.d/20-pdo_dblib.ini, /etc/php/7.1/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.1/cli/conf.d/20-pdo_odbc.ini, /etc/php/7.1/cli/conf.d/20-pdo_pgsql.ini, /etc/php/7.1/cli/conf.d/20-pdo_sqlite.ini, /etc/php/7.1/cli/conf.d/20-pgsql.ini, /etc/php/7.1/cli/conf.d/20-phar.ini, /etc/php/7.1/cli/conf.d/20-posix.ini, /etc/php/7.1/cli/conf.d/20-pspell.ini, /etc/php/7.1/cli/conf.d/20-readline.ini, /etc/php/7.1/cli/conf.d/20-recode.ini, /etc/php/7.1/cli/conf.d/20-shmop.ini, /etc/php/7.1/cli/conf.d/20-simplexml.ini, /etc/php/7.1/cli/conf.d/20-soap.ini, /etc/php/7.1/cli/conf.d/20-sockets.ini, /etc/php/7.1/cli/conf.d/20-sqlite3.ini, /etc/php/7.1/cli/conf.d/20-sysvmsg.ini, /etc/php/7.1/cli/conf.d/20-sysvsem.ini, /etc/php/7.1/cli/conf.d/20-sysvshm.ini, /etc/php/7.1/cli/conf.d/20-tidy.ini, /etc/php/7.1/cli/conf.d/20-tokenizer.ini, /etc/php/7.1/cli/conf.d/20-wddx.ini, /etc/php/7.1/cli/conf.d/20-xmlreader.ini, /etc/php/7.1/cli/conf.d/20-xmlrpc.ini, /etc/php/7.1/cli/conf.d/20-xmlwriter.ini, /etc/php/7.1/cli/conf.d/20-xsl.ini, /etc/php/7.1/cli/conf.d/20-zip.ini, /etc/php/7.1/cli/conf.d/25-memcached.ini</additional_php_ini>
-          <configuration_file>/etc/php/7.1/cli/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/bin/php-cgi" php_cli="/usr/bin/php7.2" path_separator=":" version="7.2.9-1+ubuntu18.04.1+deb.sury.org+1">
+          <additional_php_ini>/etc/php/7.2/cli/conf.d/10-mysqlnd.ini, /etc/php/7.2/cli/conf.d/10-opcache.ini, /etc/php/7.2/cli/conf.d/10-pdo.ini, /etc/php/7.2/cli/conf.d/15-xml.ini, /etc/php/7.2/cli/conf.d/20-bcmath.ini, /etc/php/7.2/cli/conf.d/20-bz2.ini, /etc/php/7.2/cli/conf.d/20-calendar.ini, /etc/php/7.2/cli/conf.d/20-ctype.ini, /etc/php/7.2/cli/conf.d/20-curl.ini, /etc/php/7.2/cli/conf.d/20-dom.ini, /etc/php/7.2/cli/conf.d/20-enchant.ini, /etc/php/7.2/cli/conf.d/20-exif.ini, /etc/php/7.2/cli/conf.d/20-fileinfo.ini, /etc/php/7.2/cli/conf.d/20-ftp.ini, /etc/php/7.2/cli/conf.d/20-gd.ini, /etc/php/7.2/cli/conf.d/20-gettext.ini, /etc/php/7.2/cli/conf.d/20-gmp.ini, /etc/php/7.2/cli/conf.d/20-iconv.ini, /etc/php/7.2/cli/conf.d/20-igbinary.ini, /etc/php/7.2/cli/conf.d/20-imap.ini, /etc/php/7.2/cli/conf.d/20-intl.ini, /etc/php/7.2/cli/conf.d/20-json.ini, /etc/php/7.2/cli/conf.d/20-ldap.ini, /etc/php/7.2/cli/conf.d/20-mbstring.ini, /etc/php/7.2/cli/conf.d/20-msgpack.ini, /etc/php/7.2/cli/conf.d/20-mysqli.ini, /etc/php/7.2/cli/conf.d/20-odbc.ini, /etc/php/7.2/cli/conf.d/20-pdo_dblib.ini, /etc/php/7.2/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.2/cli/conf.d/20-pdo_odbc.ini, /etc/php/7.2/cli/conf.d/20-pdo_pgsql.ini, /etc/php/7.2/cli/conf.d/20-pdo_sqlite.ini, /etc/php/7.2/cli/conf.d/20-pgsql.ini, /etc/php/7.2/cli/conf.d/20-phar.ini, /etc/php/7.2/cli/conf.d/20-posix.ini, /etc/php/7.2/cli/conf.d/20-pspell.ini, /etc/php/7.2/cli/conf.d/20-readline.ini, /etc/php/7.2/cli/conf.d/20-recode.ini, /etc/php/7.2/cli/conf.d/20-redis.ini, /etc/php/7.2/cli/conf.d/20-shmop.ini, /etc/php/7.2/cli/conf.d/20-simplexml.ini, /etc/php/7.2/cli/conf.d/20-soap.ini, /etc/php/7.2/cli/conf.d/20-sockets.ini, /etc/php/7.2/cli/conf.d/20-sqlite3.ini, /etc/php/7.2/cli/conf.d/20-sysvmsg.ini, /etc/php/7.2/cli/conf.d/20-sysvsem.ini, /etc/php/7.2/cli/conf.d/20-sysvshm.ini, /etc/php/7.2/cli/conf.d/20-tidy.ini, /etc/php/7.2/cli/conf.d/20-tokenizer.ini, /etc/php/7.2/cli/conf.d/20-wddx.ini, /etc/php/7.2/cli/conf.d/20-xdebug.ini, /etc/php/7.2/cli/conf.d/20-xmlreader.ini, /etc/php/7.2/cli/conf.d/20-xmlrpc.ini, /etc/php/7.2/cli/conf.d/20-xmlwriter.ini, /etc/php/7.2/cli/conf.d/20-xsl.ini, /etc/php/7.2/cli/conf.d/20-zip.ini, /etc/php/7.2/cli/conf.d/25-memcached.ini</additional_php_ini>
+          <configuration_file>/etc/php/7.2/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -69,7 +69,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/usr/lib/php/20160303" />
+            <configuration_option name="extension_dir" value="/usr/lib/php/20170718" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -99,7 +99,7 @@
             <configuration_option name="ldap.max_links" value="-1" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
-            <configuration_option name="mail.add_x_header" value="1" />
+            <configuration_option name="mail.add_x_header" value="" />
             <configuration_option name="mail.force_extra_parameters" value="" />
             <configuration_option name="mail.log" value="" />
             <configuration_option name="max_execution_time" value="0" />
@@ -117,8 +117,6 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="mcrypt.algorithms_dir" value="" />
-            <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memcached.compression_factor" value="1.3" />
             <configuration_option name="memcached.compression_threshold" value="2000" />
             <configuration_option name="memcached.compression_type" value="fastlz" />
@@ -169,7 +167,7 @@
             <configuration_option name="mysqlnd.mempool_default_size" value="16000" />
             <configuration_option name="mysqlnd.net_cmd_buffer_size" value="4096" />
             <configuration_option name="mysqlnd.net_read_buffer_size" value="32768" />
-            <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
+            <configuration_option name="mysqlnd.net_read_timeout" value="86400" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="odbc.allow_persistent" value="1" />
@@ -189,7 +187,6 @@
             <configuration_option name="opcache.enable_cli" value="0" />
             <configuration_option name="opcache.enable_file_override" value="0" />
             <configuration_option name="opcache.error_log" value="" />
-            <configuration_option name="opcache.fast_shutdown" value="0" />
             <configuration_option name="opcache.file_cache" value="" />
             <configuration_option name="opcache.file_cache_consistency_checks" value="1" />
             <configuration_option name="opcache.file_cache_only" value="0" />
@@ -239,6 +236,22 @@
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
+            <configuration_option name="redis.arrays.autorehash" value="" />
+            <configuration_option name="redis.arrays.connecttimeout" value="" />
+            <configuration_option name="redis.arrays.distributor" value="" />
+            <configuration_option name="redis.arrays.functions" value="" />
+            <configuration_option name="redis.arrays.hosts" value="" />
+            <configuration_option name="redis.arrays.index" value="" />
+            <configuration_option name="redis.arrays.lazyconnect" value="" />
+            <configuration_option name="redis.arrays.names" value="" />
+            <configuration_option name="redis.arrays.pconnect" value="" />
+            <configuration_option name="redis.arrays.previous" value="" />
+            <configuration_option name="redis.arrays.readtimeout" value="" />
+            <configuration_option name="redis.arrays.retryinterval" value="" />
+            <configuration_option name="redis.clusters.persistent" value="" />
+            <configuration_option name="redis.clusters.read_timeout" value="" />
+            <configuration_option name="redis.clusters.seeds" value="" />
+            <configuration_option name="redis.clusters.timeout" value="" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
             <configuration_option name="report_zend_debug" value="0" />
@@ -253,7 +266,7 @@
             <configuration_option name="session.cookie_httponly" value="" />
             <configuration_option name="session.cookie_lifetime" value="0" />
             <configuration_option name="session.cookie_path" value="/" />
-            <configuration_option name="session.cookie_secure" value="" />
+            <configuration_option name="session.cookie_secure" value="0" />
             <configuration_option name="session.gc_divisor" value="1000" />
             <configuration_option name="session.gc_maxlifetime" value="1440" />
             <configuration_option name="session.gc_probability" value="0" />
@@ -284,12 +297,11 @@
             <configuration_option name="soap.wsdl_cache_enabled" value="1" />
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
-            <configuration_option name="sql.safe_mode" value="" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="tidy.clean_output" value="" />
             <configuration_option name="tidy.default_config" value="" />
-            <configuration_option name="track_errors" value="" />
+            <configuration_option name="track_errors" value="0" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="" />
@@ -300,6 +312,71 @@
             <configuration_option name="user_ini.cache_ttl" value="300" />
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
+            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.collect_assignments" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="1" />
+            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_return" value="0" />
+            <configuration_option name="xdebug.collect_vars" value="0" />
+            <configuration_option name="xdebug.coverage_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.dump.COOKIE" value="" />
+            <configuration_option name="xdebug.dump.ENV" value="" />
+            <configuration_option name="xdebug.dump.FILES" value="" />
+            <configuration_option name="xdebug.dump.GET" value="" />
+            <configuration_option name="xdebug.dump.POST" value="" />
+            <configuration_option name="xdebug.dump.REQUEST" value="" />
+            <configuration_option name="xdebug.dump.SERVER" value="" />
+            <configuration_option name="xdebug.dump.SESSION" value="" />
+            <configuration_option name="xdebug.dump_globals" value="1" />
+            <configuration_option name="xdebug.dump_once" value="1" />
+            <configuration_option name="xdebug.dump_undefined" value="0" />
+            <configuration_option name="xdebug.extended_info" value="1" />
+            <configuration_option name="xdebug.file_link_format" value="" />
+            <configuration_option name="xdebug.filename_format" value="" />
+            <configuration_option name="xdebug.force_display_errors" value="0" />
+            <configuration_option name="xdebug.force_error_reporting" value="0" />
+            <configuration_option name="xdebug.gc_stats_enable" value="0" />
+            <configuration_option name="xdebug.gc_stats_output_dir" value="/tmp" />
+            <configuration_option name="xdebug.gc_stats_output_name" value="gcstats.%p" />
+            <configuration_option name="xdebug.halt_level" value="0" />
+            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.max_stack_frames" value="-1" />
+            <configuration_option name="xdebug.overload_var_dump" value="2" />
+            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.profiler_append" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.profiler_output_dir" value="/tmp" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
+            <configuration_option name="xdebug.remote_addr_header" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
+            <configuration_option name="xdebug.remote_enable" value="0" />
+            <configuration_option name="xdebug.remote_handler" value="dbgp" />
+            <configuration_option name="xdebug.remote_host" value="localhost" />
+            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_mode" value="req" />
+            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.remote_timeout" value="200" />
+            <configuration_option name="xdebug.scream" value="0" />
+            <configuration_option name="xdebug.show_error_trace" value="0" />
+            <configuration_option name="xdebug.show_exception_trace" value="0" />
+            <configuration_option name="xdebug.show_local_vars" value="0" />
+            <configuration_option name="xdebug.show_mem_delta" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.trace_format" value="0" />
+            <configuration_option name="xdebug.trace_options" value="0" />
+            <configuration_option name="xdebug.trace_output_dir" value="/tmp" />
+            <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.var_display_max_children" value="128" />
+            <configuration_option name="xdebug.var_display_max_data" value="512" />
+            <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
             <configuration_option name="zend.assertions" value="-1" />
@@ -312,7 +389,11 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.6.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -346,7 +427,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="memcached" />
             <extension name="msgpack" />
             <extension name="mysqli" />
@@ -364,10 +444,12 @@
             <extension name="pspell" />
             <extension name="readline" />
             <extension name="recode" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
+            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />
@@ -376,6 +458,7 @@
             <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
