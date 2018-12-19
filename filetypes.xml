@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".no-sublime-package" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_excludes" type="PLAIN_TEXT" />
