@@ -4,6 +4,9 @@
     <option name="CODING_STANDARD" value="Custom" />
     <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/projects/web/domains/argusnew/build/phpcs.xml" />
     <option name="SHOW_SNIFF_NAMES" value="true" />
+    <option name="CHECK_INC" value="false" />
+    <option name="CHECK_JS" value="false" />
+    <option name="CHECK_CSS" value="false" />
   </inspection_tool>
   <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
 </profile>
