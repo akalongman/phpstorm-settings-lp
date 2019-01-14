@@ -366,6 +366,10 @@
           <option name="url" value="git@github.com:akalongman/app-bargalka.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:akalongman/laravel-self-diagnosis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/akalongman" />
