@@ -9,6 +9,7 @@
     <option name="MAX_CLIPBOARD_CONTENTS" value="10" />
     <option name="MAX_LOOKUP_WIDTH2" value="1070" />
     <option name="RECENT_FILES_LIMIT" value="200" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="smoothScrolling" value="true" />
