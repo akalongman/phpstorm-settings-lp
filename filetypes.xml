@@ -10,6 +10,7 @@
       <mapping ext="compiled" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="jmx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
