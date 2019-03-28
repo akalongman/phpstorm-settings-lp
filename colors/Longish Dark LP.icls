@@ -4,7 +4,7 @@
     <property name="created">2016-12-05T21:19:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2019-01-29T19:14:24</property>
+    <property name="modified">2019-03-28T18:11:08</property>
     <property name="originalScheme">Longish Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -12564,6 +12564,12 @@
       </value>
     </option>
     <option name="PHP_PREDEFINED SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="90f0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PHP_PRIMITIVE_TYPE_HINT">
       <value>
         <option name="FOREGROUND" value="90f0" />
         <option name="FONT_TYPE" value="1" />
