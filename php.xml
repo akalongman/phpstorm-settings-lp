@@ -2,7 +2,7 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
-  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" />
+  <component name="PhpAutoImport" auto_import_file_scope="true" global_class_behavior="PREFER_IMPORT" global_constant_behavior="PREFER_IMPORT" global_function_behavior="PREFER_IMPORT" />
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="1985ff78-8a4e-4a72-8ac8-1d7963524307" name="PHP 7" debugger_id="php.debugger.XDebug" />
+      <interpreter id="1985ff78-8a4e-4a72-8ac8-1d7963524307" name="PHP 7" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
