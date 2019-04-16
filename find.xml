@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../tests [argusnew]'" />
-    <option name="defaultScopeName" value="Directory '.../tests [argusnew]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../tests [argusnew]'" />
+    <option name="customScope" value="Directory '... [argusnew]'" />
+    <option name="defaultScopeName" value="Directory '... [argusnew]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [argusnew]'" />
   </component>
 </application>
