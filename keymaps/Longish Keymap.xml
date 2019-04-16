@@ -37,6 +37,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
@@ -177,6 +180,7 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Inline" />
+  <action id="IntroduceConstant" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="Jdbc.OpenTableEditor" />
