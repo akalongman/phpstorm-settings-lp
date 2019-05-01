@@ -4,6 +4,7 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore2" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_prepare_excludes" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".no-sublime-package" type="PLAIN_TEXT" />
