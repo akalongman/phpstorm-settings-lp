@@ -5,7 +5,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="4a038b29-76ed-488d-94c7-e2a43bdae830" name="dev.iliauni.io" url="http://dev.iliauni.io">
-        <fileTransfer host="dev.iliauni.io" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/dev.iliauni.io" accessType="SFTP" keyPair="true">
+        <fileTransfer host="dev.iliauni.io" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/dev.iliauni.io/current" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
