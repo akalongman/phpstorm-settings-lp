@@ -12,6 +12,7 @@
       <mapping pattern="telegram" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="compiled" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
