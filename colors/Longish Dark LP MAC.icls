@@ -1,22 +1,11 @@
-<scheme name="Longish Dark LP" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="Longish Dark LP MAC" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2016-12-05T21:19:12</property>
+    <property name="created">2019-07-19T16:44:28</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.0.0</property>
+    <property name="ideVersion">2019.1.3.0.0</property>
     <property name="modified">2019-07-19T16:44:52</property>
-    <property name="originalScheme">Longish Dark</property>
+    <property name="originalScheme">Longish Dark LP copy</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="NOTIFICATION_BACKGROUND" value="909030" />
