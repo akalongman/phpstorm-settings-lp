@@ -4,5 +4,6 @@
     <option name="DISABLE_MNEMONICS_IN_CONTROLS" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="smoothScrolling" value="true" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
