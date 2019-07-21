@@ -6,5 +6,8 @@
     <macro name="arrow">
       <typing text-keycode="45:0;46:1">-&gt;</typing>
     </macro>
+    <macro name="=&gt;">
+      <typing text-keycode="61:0;46:1">=&gt;</typing>
+    </macro>
   </component>
 </application>

@@ -196,6 +196,9 @@
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="Macro.=&gt;">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="Macro.arrayarrow">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
