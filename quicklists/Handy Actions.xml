@@ -1,0 +1,6 @@
+<list display="Handy Actions">
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction" />
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction" />
+  <action id="osmedile.intellij.stringmanip.DecodeBase64Action" />
+  <action id="osmedile.intellij.stringmanip.URLDecodeAction" />
+</list>
