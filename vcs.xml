@@ -498,9 +498,13 @@
           <option name="url" value="git@gitlab.iliauni.io:infrastructure/iac-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/akalongman/bootbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/iliauni/infrastructure" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/akalongman" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
