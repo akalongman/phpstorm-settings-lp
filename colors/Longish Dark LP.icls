@@ -4,7 +4,7 @@
     <property name="created">2016-12-05T21:19:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2019-07-26T14:46:55</property>
+    <property name="modified">2019-08-20T22:13:41</property>
     <property name="originalScheme">Longish Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -176,7 +176,7 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -209,6 +209,12 @@
         <option name="EFFECT_COLOR" value="756d56" />
         <option name="ERROR_STRIPE_COLOR" value="756d56" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
