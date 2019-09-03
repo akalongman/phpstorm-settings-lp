@@ -5,16 +5,16 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.ini.j2" type="Ini" />
       <mapping pattern="*.json.j2" type="JSON" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="telegram" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".rsync_prepare_excludes" type="PLAIN_TEXT" />
-      <mapping pattern=".no-sublime-package" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore2" type="PLAIN_TEXT" />
-      <mapping pattern="composer" type="PLAIN_TEXT" />
+      <mapping pattern=".rsync_prepare_excludes" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".no-sublime-package" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_excludes" type="PLAIN_TEXT" />
+      <mapping pattern="telegram" type="PLAIN_TEXT" />
+      <mapping pattern="composer" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="compiled" type="PLAIN_TEXT" />
