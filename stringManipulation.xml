@@ -1,0 +1,9 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="preserveTrailingSpecialCharacters" value="true" />
+      </SortSettings>
+    </option>
+  </component>
+</application>
