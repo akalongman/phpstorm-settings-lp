@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.ini.j2" type="Ini" />
       <mapping pattern="*.json.j2" type="JSON" />
+      <mapping pattern="artisan" type="PHP" />
       <mapping pattern=".gitignore2" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
