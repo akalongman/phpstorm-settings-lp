@@ -526,9 +526,13 @@
           <option name="url" value="git@github.com:spatie/laravel-permission.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:KeenthemesHub/Metronic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/spatie" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/KeenthemesHub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
