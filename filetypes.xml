@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.ini.j2" type="Ini" />
       <mapping pattern="*.json.j2" type="JSON" />
+      <removed_mapping ext="j2" approved="true" type="OrchideJinja2" />
       <mapping pattern="artisan" type="PHP" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore2" type="PLAIN_TEXT" />
