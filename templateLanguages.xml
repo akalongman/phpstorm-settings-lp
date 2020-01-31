@@ -1,0 +1,5 @@
+<application>
+  <component name="TemplateDataLanguagePatterns">
+    <pattern value="*.j2" lang="Ansible" />
+  </component>
+</application>
