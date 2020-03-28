@@ -546,6 +546,10 @@
           <option name="url" value="git@github.com:Adrinlol/argus-iliauni.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.iliauni.io:erp/frontend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/web/domains" />
