@@ -550,6 +550,10 @@
           <option name="url" value="git@gitlab.iliauni.io:erp/frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zoom/sample-app-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/web/domains" />
