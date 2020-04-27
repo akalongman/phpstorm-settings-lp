@@ -1,8 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="Handlebars" injector-id="xml">
-      <display-name>script</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("script")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+      <display-name>Handlebars</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("script"))]]></place>
+      <xpath-condition>lower-case(@type)='text/x-handlebars-template'</xpath-condition>
     </injection>
   </component>
 </application>
