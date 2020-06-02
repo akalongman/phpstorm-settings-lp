@@ -14,9 +14,9 @@
       <mapping pattern=".no-sublime-package" type="PLAIN_TEXT" />
       <mapping pattern=".rsync_excludes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="zz" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="compiled" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="testing" type="PLAIN_TEXT" />
