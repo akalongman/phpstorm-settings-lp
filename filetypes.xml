@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.sublime-lock" type="PLAIN_TEXT" />
       <mapping ext="sublime-lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
