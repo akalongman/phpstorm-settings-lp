@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20ea9b05-a482-4560-9e7f-105cdaab57d3" name="iliauniedu" url="https://iliauni.edu.ge">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
