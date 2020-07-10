@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="dump">
+      <action id="SurroundWithLiveTemplate" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
