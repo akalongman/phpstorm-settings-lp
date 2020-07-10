@@ -1,5 +1,9 @@
 <application>
   <component name="ActionMacroManager">
+    <macro name="arrow">
+      <action id="InsertLiveTemplate" />
+      <action id="EditorChooseLookupItem" />
+    </macro>
     <macro name="dump">
       <action id="SurroundWithLiveTemplate" />
       <shortuct text="ENTER" />

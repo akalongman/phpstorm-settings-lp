@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dump" value="dump($SELECTION$);&#10;die;" description="Symfony's dump function" toReformat="true" toShortenFQNames="true">
+  <template name="dump" value="dump($SELECTION$);&#10;die;" description="Symfony's dump function" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
