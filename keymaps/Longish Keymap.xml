@@ -199,6 +199,9 @@
   <action id="Macro.=&gt;">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="Macro.array">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="Macro.arrayarrow">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>

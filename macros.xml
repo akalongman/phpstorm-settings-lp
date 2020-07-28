@@ -8,5 +8,8 @@
       <action id="SurroundWithLiveTemplate" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="array">
+      <typing text-keycode="61:0;46:1">=&gt;</typing>
+    </macro>
   </component>
 </application>
