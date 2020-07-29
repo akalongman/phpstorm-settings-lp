@@ -5,6 +5,17 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+      <code-style-scheme-name>Longish CodeStyle</code-style-scheme-name>
+    </data-source>
+    <data-source source="LOCAL" name="iliauni (production)" uuid="36e183aa-1f1d-48fa-a77b-9a6b26966f94">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://172.30.207.132:3306/</jdbc-url>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+      </driver-properties>
+      <code-style-scheme-name>Longish CodeStyle</code-style-scheme-name>
     </data-source>
   </component>
 </application>
