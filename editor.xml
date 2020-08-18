@@ -1,4 +1,5 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Longish Style" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
   </component>

@@ -1,7 +1,5 @@
 <profile version="1.0">
   <option name="myName" value="Longish Style" />
-  <inspection_tool class="DotEnvDuplicateKeyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="DotEnvSpaceInsideNonQuotedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="CODING_STANDARD" value="Custom" />
     <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/projects/web/domains/sgp/build/phpcs.xml" />
@@ -54,4 +52,5 @@
     <option name="m_minLength" value="1" />
     <option name="m_maxLength" value="32" />
   </inspection_tool>
+  <inspection_tool class="PhpVariableVariableInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
 </profile>
