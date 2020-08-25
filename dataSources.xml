@@ -27,5 +27,11 @@
       </driver-properties>
       <code-style-scheme-name>Longish CodeStyle</code-style-scheme-name>
     </data-source>
+    <data-source source="LOCAL" name="iliauni.io" uuid="2a09a923-887b-4053-9dda-2ad7406ebeba">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://dev.iliauni.io:3306</jdbc-url>
+    </data-source>
   </component>
 </application>
