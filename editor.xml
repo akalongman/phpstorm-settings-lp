@@ -3,4 +3,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
   </component>
+  <component name="EditorSettings">
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
 </application>
