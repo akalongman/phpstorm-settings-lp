@@ -1,14 +1,15 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="4">
     <option name="preview-rows" value="20" />
     <option name="filters-history-size" value="20" />
+    <option name="warn-unsafe-query" value="false" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="true" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" in-scripts="true" scope="Python" predefined="%(name)s" />
-        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
       </parameter-patterns>
