@@ -1,0 +1,27 @@
+<keymap version="1" name="Longish MacOS" parent="Mac OS X 10.5+">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="List-selectPreviousRow">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="NavBar-selectUp">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleFullScreen" />
+  <action id="Tree-selectPrevious">
+    <keyboard-shortcut first-keystroke="up" />
+  </action>
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
+</keymap>
