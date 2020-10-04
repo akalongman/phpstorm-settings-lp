@@ -9,6 +9,7 @@
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping ext="sublime-lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="open_url" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
