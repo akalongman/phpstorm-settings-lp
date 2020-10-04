@@ -5,6 +5,9 @@
   </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
@@ -13,10 +16,23 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExternalSystem.OpenConfig" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Github.PullRequest.Changes.Reload" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Github.PullRequest.Timeline.Update" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="GotoRelated" />
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="f4" />
@@ -38,7 +54,10 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
+  <action id="Refresh" />
   <action id="RemoteHostView.EditSource" />
+  <action id="Replace" />
+  <action id="Rerun" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -57,7 +76,9 @@
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="Sql.EditParameter" />
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleBookmark" />
   <action id="ToggleFullScreen" />
   <action id="Tree-selectPrevious">
     <keyboard-shortcut first-keystroke="up" />
@@ -66,11 +87,16 @@
   <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.Package" />
   <action id="Vcs.EditSource" />
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift meta k" />
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="Vcs.RefreshFileHistory">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="XDebugger.JumpToSource" />
+  <action id="hg4idea.QRefresh" />
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
