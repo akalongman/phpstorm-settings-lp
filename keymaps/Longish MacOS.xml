@@ -64,6 +64,10 @@
   <action id="NavBar-selectUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="ProfilerJumpToSource" />
   <action id="ProjectViewEditSource" />
   <action id="QuickImplementations">
