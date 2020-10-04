@@ -1,21 +1,37 @@
 <keymap version="1" name="Longish MacOS" parent="Mac OS X 10.5+">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
+  <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyTable" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DomCollectionControl.Edit" />
   <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
   <action id="EditSource" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="ExternalSystem.OpenConfig" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -50,6 +66,9 @@
   </action>
   <action id="ProfilerJumpToSource" />
   <action id="ProjectViewEditSource" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl meta f" />
@@ -58,6 +77,7 @@
   <action id="RemoteHostView.EditSource" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
@@ -66,8 +86,9 @@
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="shift meta d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="SendEOF" />
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="ServiceView.JumpToServices">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -95,9 +116,11 @@
   <action id="Vcs.RefreshFileHistory">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="hg4idea.QRefresh" />
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
