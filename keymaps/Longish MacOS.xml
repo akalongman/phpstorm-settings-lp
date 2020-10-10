@@ -109,6 +109,9 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UpdateFiles">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="UsageGrouping.Directory" />
   <action id="UsageGrouping.Package" />
   <action id="Vcs.EditSource" />
@@ -123,8 +126,5 @@
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource" />
   <action id="hg4idea.QRefresh" />
-  <action id="hg4idea.pull">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
