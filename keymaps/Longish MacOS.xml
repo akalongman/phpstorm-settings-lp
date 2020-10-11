@@ -4,7 +4,12 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="meta up" />
@@ -17,6 +22,10 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
@@ -46,6 +55,12 @@
     <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="Git.Rename.Local.Branch">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
   <action id="Github.PullRequest.Changes.Reload" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
@@ -53,6 +68,7 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoNextError" />
   <action id="GotoRelated" />
   <action id="Graph.ApplyCurrentLayout" />
   <action id="HideActiveWindow">
@@ -87,6 +103,12 @@
   </action>
   <action id="Refresh" />
   <action id="RemoteHostView.EditSource" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
@@ -113,6 +135,9 @@
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="ServiceView.JumpToServices">
     <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -146,7 +171,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.EditWatch" />
   <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.SetValue" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
 </keymap>
