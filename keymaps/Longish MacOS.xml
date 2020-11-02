@@ -42,6 +42,10 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
   </action>
@@ -120,6 +124,9 @@
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="Rerun" />
+  <action id="RevealInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
