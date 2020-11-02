@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="nvm" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.sublime-lock" type="PLAIN_TEXT" />
