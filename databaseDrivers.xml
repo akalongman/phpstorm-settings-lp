@@ -6,6 +6,12 @@
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="couchbase_query">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="db2.11">
+      <option name="auto-sync" value="false" />
+    </driver>
     <driver id="db2">
       <option name="auto-sync" value="false" />
     </driver>
@@ -71,6 +77,9 @@
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
+    <driver id="mysql_aurora">
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="oracle">
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
@@ -92,6 +101,9 @@
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.16.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.16.1/sqlite-jdbc-3.16.1.jar</url>
+      </library>
     </driver>
     <driver id="sybase.jtds">
       <option name="auto-sync" value="true" />
