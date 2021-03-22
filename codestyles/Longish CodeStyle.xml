@@ -361,10 +361,12 @@
     <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
   </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="5">
-    <option name="TYPE_CASE" value="3" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
     <option name="CUSTOM_TYPE_CASE" value="3" />
     <option name="ALIAS_CASE" value="4" />
-    <option name="BUILT_IN_CASE" value="0" />
+    <option name="BUILT_IN_CASE" value="2" />
+    <option name="QUOTE_IDENTIFIER" value="2" />
     <option name="QUERY_TRUE_INDENT" value="false" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
     <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
