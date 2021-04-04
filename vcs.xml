@@ -614,6 +614,10 @@
           <option name="url" value="git@github.com:Drummer3/CIU-Tasks.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:trongio/CIUTask.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/web/domains" />
