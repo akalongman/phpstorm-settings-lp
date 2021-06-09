@@ -39,5 +39,12 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://dev2.iliauni.io:3306</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="longman.me" uuid="14b9d1a2-8fd5-4f40-a992-a5d743fb604b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://longman.me:3306</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
