@@ -1,7 +1,10 @@
 <application>
   <component name="LogHighlightingSettings">
+    <highlightingPatterns>
+      <LogHighlightingPattern pattern=".ERROR:" stripe="true" />
+    </highlightingPatterns>
     <parsingPatterns>
-      <LogParsingPattern name="Laravel" pattern="^\[(.*)\] (.+?)\.([A-Z]+): (.*)" timePattern="yyyy-MM-dd HH:mm:ss" linePattern="^\[" timeId="0" severityId="2" categoryId="1" fullmatch="true" />
+      <LogParsingPattern name="Laravel" pattern="^(\[([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])\s([0-1][0-9]|[2][0-3]):([0-5][0-9]):([0-5][0-9]))\])\s*(\w*)\.(\w*):(\w*)(.+)$" timePattern="yyyy-MM-dd HH:mm:ss" linePattern="^\[" timeId="1" severityId="8" categoryId="7" fullmatch="true" />
     </parsingPatterns>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
