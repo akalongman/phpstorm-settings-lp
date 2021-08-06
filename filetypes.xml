@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="down" type="AUTO_DETECTED" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.sublime-lock" type="PLAIN_TEXT" />
