@@ -638,6 +638,10 @@
           <option name="url" value="git@gitlab.com:btu-university/classroom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:DavitGujejiani/laravel-posts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects/web/domains" />
