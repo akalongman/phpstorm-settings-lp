@@ -4,6 +4,7 @@
       <mapping pattern="down" type="AUTO_DETECTED" />
       <mapping pattern="phpcs2" type="AUTO_DETECTED" />
       <mapping pattern="phpcs-modified" type="AUTO_DETECTED" />
+      <mapping pattern="artisan" type="AUTO_DETECTED" />
       <mapping pattern="cmd" type="PHP" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="._.DS_Store" type="PLAIN_TEXT" />
