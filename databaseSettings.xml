@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="4">
+  <component name="DatabaseSettings" version="7">
     <option name="preview-rows" value="20" />
     <option name="filters-history-size" value="20" />
     <option name="warn-unsafe-query" value="false" />
@@ -18,6 +18,16 @@
       <csv-format name="Tab Separated Values (TSV)" id="Tab-separated (TSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="&#9;" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
+      <csv-format name="Pipe-separated" id="Pipe-separated_id">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
@@ -60,6 +70,11 @@
             </quotation>
           </record-format>
         </header>
+      </csv-format>
+      <csv-format name="SQL Queries" id="e4d52571-c2fd-4b9c-994d-c5a4ab60300c">
+        <data>
+          <record-format prefix="" suffix=";" nullText="" quotationPolicy="never" valueSeparator="," recordSeparator="&#10;" trimWhitespace="true" />
+        </data>
       </csv-format>
     </csv-formats>
   </component>
