@@ -1,7 +1,7 @@
 <application>
   <component name="RNSettings">
     <option name="androidStudioPath" value="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/AndroidStudio/ch-0/203.7935034" />
-    <option name="version" value="2021.3.0 EAP" />
+    <option name="version" value="2021.3.1" />
     <option name="xcodePath" value="" />
   </component>
 </application>
