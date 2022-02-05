@@ -4,8 +4,10 @@
       <mapping pattern="down" type="AUTO_DETECTED" />
       <mapping pattern="update_versions" type="AUTO_DETECTED" />
       <mapping pattern="script" type="AUTO_DETECTED" />
+      <mapping pattern="setup_testing_db" type="AUTO_DETECTED" />
       <mapping pattern="phpcs2" type="AUTO_DETECTED" />
       <mapping pattern="phpcs-modified" type="AUTO_DETECTED" />
+      <mapping pattern="drop_testing_db" type="AUTO_DETECTED" />
       <mapping pattern="artisan" type="AUTO_DETECTED" />
       <mapping pattern="composer" type="AUTO_DETECTED" />
       <mapping pattern="configure" type="AUTO_DETECTED" />
