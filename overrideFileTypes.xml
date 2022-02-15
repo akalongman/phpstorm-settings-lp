@@ -1,6 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/projects/web/domains/argusv4/build/deploy/.env.production" value=".env file" />
+    <file url="file://$USER_HOME$/projects/web/domains/goniv2/artisan" value="PHP" />
     <file url="file://$USER_HOME$/projects/web/domains/goniv2/build/deploy/.env.production" value=".env file" />
   </component>
 </application>
