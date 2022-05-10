@@ -661,6 +661,7 @@
         <option value="Default.Author" />
         <option value="Default.Date" />
         <option value="Default.Hash" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
