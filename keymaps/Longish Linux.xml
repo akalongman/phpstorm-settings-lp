@@ -152,6 +152,9 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="GoToLastTab">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
     <keyboard-shortcut first-keystroke="shift ctrl p" />

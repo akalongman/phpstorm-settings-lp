@@ -1,5 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
+    <option id="js.only.show.names.for.tagged" value="false" />
+    <option id="vuejs.show.names.for.filters" value="false" />
+    <option id="js.only.show.names.for.pipes" value="false" />
+    <option id="js.param.hints.show.names.for.tagged" value="false" />
+    <option id="php.pass.by.reference" value="false" />
+    <option id="angular.show.names.for.pipes" value="false" />
     <disabledLanguages>
       <language id="TypeScript" />
       <language id="Angular2Html" />
