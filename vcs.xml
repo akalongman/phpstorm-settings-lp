@@ -650,9 +650,13 @@
           <option name="url" value="git@gitlab.com:itdcge/meraki.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.iliauni.io:bi/warehouse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/web/domains" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/iliauni/bi" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
