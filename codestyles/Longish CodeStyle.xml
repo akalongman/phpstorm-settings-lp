@@ -320,6 +320,7 @@
     <option name="BLANK_LINES_AFTER_OPENING_TAG" value="1" />
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+    <option name="SPACES_AROUND_PIPE_IN_UNION_TYPE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="NULL_TYPE_POSITION" value="IN_THE_BEGINNING" />
     <option name="PREFER_TEMPLATE_INDENTS" value="true" />
