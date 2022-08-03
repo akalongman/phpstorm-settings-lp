@@ -100,4 +100,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpStan">
+    <PhpStan_settings>
+      <phpstan_by_interpreter interpreter_id="1985ff78-8a4e-4a72-8ac8-1d7963524307" tool_path="$USER_HOME$/projects/web/domains/argusv4/vendor/bin/phpstan" />
+    </PhpStan_settings>
+  </component>
 </application>
