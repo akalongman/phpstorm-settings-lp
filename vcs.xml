@@ -658,9 +658,13 @@
           <option name="url" value="https://github.com/davitlabadze/iliauni-challenge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:itdc/php-cms-checker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/web/domains" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/repositories/itdc" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
